@@ -60,4 +60,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'psych', '~> 3.1'
 gem 'bigdecimal'
 gem 'mutex_m'
-gem 'concurrent-ruby', '1.3.4'
+gem 'concurrent-ruby', '1.3.5'
