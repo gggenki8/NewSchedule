@@ -57,7 +57,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #追加ライブラリ
-gem 'psych', '~> 3.1'
+gem 'psych', '~> 5.2'
 gem 'bigdecimal'
 gem 'mutex_m'
 gem 'concurrent-ruby', '1.3.4'
